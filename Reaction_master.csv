@@ -1,0 +1,117 @@
+101,"ADP-L-glycero-manno-heptose-6-epimerase",,"P67910_1-310"
+102,"CDP-3,6-dideoxy-glycero-glycero-4-hexulose 4-reductase (equatorial)","GPE06230",
+103,"CDP-3,6-dideoxy-glycero-glycero-4-hexulose 4-reductase (equatorial, axial non-specific)","GPE06230",
+104,"CDP-3,6-dideoxy-glycero-glycero-4-hexulose-5-epimerase","GPE02530",
+105,"CDP-3,6-dideoxy-L-glycero-glycero-4-hexulose-4-reductase (equatorial)","GPE06230",
+106,"CDP-4-keto-6-deoxy-glucose 3-dehydrase","GPE05630",
+107,"CDP-4-keto-6-deoxy-glucose 3-epimerase","GPE02530",
+108,"CDP-4-keto-6-deoxy-gulose 4-reductase (axial)","GPE06230",
+109,"CDP-6-deoxy-delta-3,4-glucoseen reductase",,"P26395_1-330/Q66DP5_1-329"
+110,"CDP-glucose-4,6-dehydratase (Retaining)","GPE05230",
+111,"CDP-paratose 2-epimerase",,"P14169_1-338"
+112,"CMP-N,N'-diacetyllegionaminic acid synthase","GPE00231",
+113,"CMP-N,N'-diacetylpseudaminic acid synthase","GPE00231",
+114,"CMP-N-acetylneuraminic acid synthase","GPE00210/GPE00231",
+115,"D-glycero-alpha-manno-heptose 1-phosphate adenylyltransferase",,"P76658_344-477"
+116,"D-glycero-alpha-manno-heptose 7-phosphate kinase",,"P76658_1-318"
+117,"D-glycero-alpha-manno-heptose-1,7-bisphosphate 7-phosphatase",,"P63228_1-191"
+118,"D-glycero-beta-manno-heptose 1-phosphate guanylyltransferase",,"Q9AGY6_1-230"
+119,"D-glycero-beta-manno-heptose 7-phosphate kinase",,"Q9AGY8_1-341"
+120,"D-glycero-beta-manno-heptose-1,7-bisphosphate 7-phosphatase",,"Q9AGY5_1-179"
+123,"dTDP/TDP-3-amino-3,6-dideoxy-galactose acetyltransferase",,"Q6T1W7_1-192/Q12KT8_1-152"
+124,"dTDP/TDP-3-amino-3,6-dideoxy-glucose acetyltransferase",,"Q6TFC6_1-265"
+130,"dTDP/TDP-3-keto-6-deoxy-galactose 3-aminotransferase (equatorial)","GPE01910/GPE01230",
+131,"dTDP/TDP-3-keto-6-deoxy-glucose 3-aminotransferase (equatorial)","GPE01910/GPE01230",
+132,"dTDP/TDP-4-amino-4,6-dideoxy-galactose acetyltransferase",,"Q8FBQ3_1-224"
+133,"dTDP/TDP-4-amino-4,6-dideoxy-glucose acetyltransferase",,"C4B8D3_1-213/Q9XCW3_1-192"
+135,"dTDP/TDP-4-amino-4,6-dideoxy-glucose formyltransferase","GPE50010",
+137,"dTDP/TDP-4-keto-6-deoxy-glucose 3,4-ketoisomerase (C4 axial)","GPE07510",
+138,"dTDP/TDP-4-keto-6-deoxy-glucose 3,4-ketoisomerase (C4 equatorial)","GPE07510",
+139,"dTDP/TDP-4-keto-6-deoxy-glucose 3,5-epimerase","GPE02430/GPE02530",
+140,"dTDP/TDP-4-keto-6-deoxy-glucose 4-aminotransferase (axial)","GPE01830/GPE01230",
+141,"dTDP/TDP-4-keto-6-deoxy-glucose 4-aminotransferase (equatorial)","GPE01830/GPE01230",
+142,"dTDP/TDP-4-keto-6-deoxy-glucose 4-reductase (axial)",,"O05374_1-230/Q6E7F2_1-316"
+144,"dTDP/TDP-4-keto-L-rhamnose 4-reductase (axial)",,"E5F146_1-318/O66256_1-270"
+145,"dTDP/TDP-4-keto-L-rhamnose 4-reductase (equatorial)","GPE06330",
+146,"dTDP/TDP-fucose mutase","GPE09510",
+147,"dTDP/TDP-glucose 4,6-dehydratase (Retaining)","GPE05430",
+148,"Fructose-6-phosphate amidotransferase","GPE01330",
+149,"Fructose-6-phosphate isomerase","GPE07030/GPE07130/GPE07230/GPE07330","Q5SIM4_1-254/P29954_1-387"
+150,"GDP-2,4-diacetamido-2,4,6-trideoxy-glucose 2-epimerase (Hydrolyzing)","GPE02110",
+151,"GDP-4-amino-4,6-dideoxy-GlcNAc acetyltransferase",,"Q0P8V9_1-263"
+152,"GDP-4-amino-4,6-dideoxy-mannose acetyltransferase",,"Q7DBF7_1-221/O85353_1-215"
+153,"GDP-4-keto-6-deoxy-GlcNAc 4-aminotransferase (equatorial)","GPE01710/GPE01830/GPE01230",
+154,"GDP-4-keto-6-deoxy-lyxo-heptose reductase (equatorial)","GPE06510",
+155,"GDP-4-keto-6-deoxy-mannose 3,5-epimerase,4-reductase (axial)","GPE06030",
+156,"GDP-4-keto-6-deoxy-mannose 3-dehydratase","GPE05630",
+157,"GDP-4-keto-6-deoxy-mannose 4-aminotransferase (equatorial)","GPE01430",
+158,"GDP-4-keto-6-deoxy-mannose 4-reductase (axial)","GPE06510",
+159,"GDP-4-keto-6-deoxy-mannose 4-reductase (equatorial)",,"Q9HTB6_1-304/Q6T1X6_1-309"
+160,"GDP-4-keto-6-deoxy-mannose 5-epimerase,4-reductase (axial)","GPE06030",
+161,"GDP-6-deoxy-4-keto-arabino-heptose reductase (equatorial)","GPE06510",
+162,"GDP-6-deoxy-4-keto-lyxo-heptose 3-epimerase","GPE02530",
+163,"GDP-GlcNAc 4,6-dehydratase (Retaining)",,"Q0P8T8_1-323/G8UHQ7_1-325"
+164,"GDP-glycero-manno-heptose 4,6 dehydratase (Retaining)","GPE05020",
+165,"GDP-mannose 6-dehydrogenase","GPE03210/GPE03430",
+166,"GDP-mannose-4,6-dehydratase (Retaining)","GPE05020",
+167,"Glucosamine 6-phosphate N-acetyltransferase","GPE08130",
+168,"Glucosamine-1-phosphate N-acetyltransferase (GlmU)","GPE08510",
+169,"Glucose-1-phosphate cytidylyltransferase","GPE00330",
+170,"Glucose-1-phosphate thymidylyltransferase","GPE01130",
+171,"Glucose-1-phosphate uridylyltransferase","GPE00430/GPE00530",
+172,"Mannose-1-phosphate guanylyltransferase","GPE00620/GPE00720",
+173,"N,N'-diacetyllegionaminic acid synthase","GPE04030",
+174,"N,N'-diacetylpseudaminic acid synthase","GPE04030",
+175,"N-acetyl-glucosamine-1-phosphate guanylyltransferase",,"Q0P8S9_1-341"
+176,"N-acetyl-glucosamine-1-phosphate uridylyltransferase","GPE00830",
+177,"N-acetyl-glucosamine-1-phosphate uridylyltransferase (GlmU)","GPE00831",
+178,"N-acetylneuraminic acid synthase","GPE04030",
+179,"Phosphoacetylglucosamine mutase","GPE09430",
+180,"Phosphoglucosamine mutase","GPE09130/GPE09630",
+181,"Phosphomanno mutase","GPE09230/GPE09330/GPE09630",
+182,"Sedoheptulose 7-phosphate isomerase",,"P63224_1-192"
+183,"UDP-2,3-diacetamido-2,3-dideoxy-glucuronate 2-epimerase (Non-hydrolyzing)","GPE02030",
+184,"UDP-2,4-diacetamido-2,4,6-trideoxy-beta-L-altrose hydrolase",,"O25093_209-517/A0A1D3UJQ1_1-321/Q0P8U5_1-274/Q3ESA1_1-366"
+185,"UDP-2,4-diacetamido-2,4,6-trideoxy-glucose 2-epimerase (Hydrolyzing)","GPE02110",
+186,"UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-4-hexulose 4-aminotransferase (equatorial)","GPE01530/GPE01830/GPE01230",
+187,"UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hex-4-ulose 3-epimerase 4-reductase (axial)",,"P95700_1-371/Q9XC60_1-372"
+188,"UDP-2-acetamido-2,6-dideoxy-beta-L-arabino-hex-4-ulose 3-epimerase 4-reductase (equatorial)",,"Q8L347_1-290"
+189,"UDP-2-acetamido-2-deoxy-3-oxo-glucuronate 3-aminotransferase (equatorial)","GPE01910/GPE01230",
+190,"UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate acetyltransferase",,"A9IH93_1-190/G3XD01_1-191"
+191,"UDP-4-amino-4,6-dideoxy-GlcNAc acetyltransferase",,"P71063_1-216/B0V6J7_1-219/Q0P9D1_1-195/Q5FAE1_197-403"
+192,"UDP-4-amino-4,6-dideoxy-glucose acetyltransferase",,"Q5UR11_1-213"
+193,"UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine acetyltransferase","GPE08410",
+194,"UDP-4-amino-L-arabinose formyltransferase","GPE50010",
+195,"UDP-4-keto-6-deoxy-GlcNAc 4-aminotransferase (axial)","GPE01710/GPE01830/GPE01230",
+196,"UDP-4-keto-6-deoxy-GlcNAc 4-aminotransferase (equatorial)","GPE01710/GPE01830/GPE01230",
+197,"UDP-4-keto-6-deoxy-GlcNAc 4-reductase (equatorial) (WreQ/PreQ)",,"Q81A43_1-303/Q6TP29_1-309"
+199,"UDP-4-keto-6-deoxy-glucose 3,5-epimerase,4-reductase (equatorial)","GPE05710",
+200,"UDP-4-keto-6-deoxy-glucose 4-aminotransferase (equatorial)",,"A0A0G2Y4N8_1-352"
+201,"UDP-6-Deoxy-GlcNAc-5,6-ene 4-Oxidase/5,6-Reductase/5-Epimerase",,"Q3ESA4_1-320"
+202,"UDP-6-deoxy-L-talosamine 2-epimerase (Non-hydrolyzing)","GPE02030",
+203,"UDP-beta-L-threo-pentapyranos-4-ulose 4-aminotransferase (equatorial)","GPE01830/GPE01230",
+204,"UDP-galactopyranose mutase","GPE09510",
+205,"UDP-GlcNAc 2-epimerase (Hydrolyzing)","GPE02110",
+206,"UDP-GlcNAc 2-epimerase (Non-hydrolyzing)","GPE02030",
+207,"UDP-GlcNAc 4,6-dehydratase (Inverting)","GPE05331",
+209,"UDP-GlcNAc 4,6-dehydratase (Retaining)","GPE05332","Q81A42_1-328"
+210,"UDP-GlcNAc 4-Oxidase/5,6-Dehydratase/4-Reductase",,"A0A0A1G406_1-341"
+211,"UDP-glucose 4,6-dehydratase (Retaining)","GPE05510",
+212,"UDP-Glucose 4-epimerase","GPE02230",
+213,"UDP-Glucose 6-dehydrogenase","GPE03130/GPE03430",
+214,"UDP-glucuronic acid 4-epimerase","GPE02230",
+215,"UDP-glucuronic acid decarboxylase","GPE20030",
+216,"UDP-glucuronic acid decarboxylase,4-oxidase","GPE20030",
+217,"UDP-L-rhamnosamine 2-epimerase (Non-hydrolyzing)","GPE02030",
+218,"UDP-N-acetyl-glucosamine 6-dehydrogenase","GPE03030",
+219,"UDP-N-acetyl-glucosaminuronic acid 3-dehydrogenase","GPE03310",
+220,"UDP-N-acetyl-glucosaminuronic acid 4-epimerase ","GPE02230",
+221,"UDP-N-acetyl-mannosamine 6-dehydrogenase","GPE03030",
+222,"UDP-Xylose 4-epimerase","GPE02230",
+223,"UDP-Yelosamine synthase",,"Q814Z5_1-371"
+224,"UDP-4-keto-6-deoxy-GlcNAc 4-reductase (axial)",,"A0A0H3KA18_1-295"
+225,"GDP-Mannose 3,5-epimerase",,"R4NRR5_1-350"
+226,"dTDP-L-rhamnose 4-epimerase",,"Q2SYH7_1-363"
+227,"CDP-4-keto-6-deoxy-glucose C3-methyltransfase","GPE40110",
+228,"CDP-4-keto-3c-methyl-6-deoxy-gulose 4-reductase","GPE06230",
+229,"UDP-GlcNAc 4-epimerase","GPE02230",
