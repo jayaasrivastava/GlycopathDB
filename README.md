@@ -1,6 +1,6 @@
-Instructions to execute Annotation.py
+# Instructions to execute Annotation.py
 
-Input files
+## Input files
 
 	genome_filelist (a list of filenames for each protein sequences of genome obtained from NCBI)
 	profile_info (profile_table.csv)
